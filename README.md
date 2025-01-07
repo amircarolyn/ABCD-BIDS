@@ -1,1 +1,1 @@
-# New Repository
+BIDS App for processing BIDS-formatted MRI datasets using the DCAN-HCP pipeline and supporting modules including DCAN BOLD Processing and DCAN Executive Summary. The pipeline utilizes methods from both the Human Connectome Project's minimal preprocessing pipeline and the DCAN Labs resting state fMRI analysis tools to output preprocessed MRI data in both volume and surface spaces.
